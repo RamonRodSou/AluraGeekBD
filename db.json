@@ -1,0 +1,36 @@
+{
+  "profile": [
+    {
+      "nome": "RamonR",
+      "email": "ramon@admin.com",
+      "senha": "Ra123456",
+      "data": "1993-07-02",
+      "tipo": 1320,
+      "id": 1
+    },
+    {
+      "nome": "EloisaRod",
+      "email": "eloisa@gmail.com",
+      "senha": "El124578",
+      "data": "2022-10-20",
+      "tipo": 50,
+      "id": 3
+    },
+    {
+      "nome": "AntonioR",
+      "email": "antonio@gmail.com",
+      "senha": "At147258",
+      "data": "2000-07-13",
+      "tipo": 50,
+      "id": 5
+    },
+    {
+      "nome": "SamaraR",
+      "email": "samara@gmail.com",
+      "senha": "Sa123456",
+      "data": "2000-02-20",
+      "tipo": 50,
+      "id": 7
+    }
+  ]  
+}
