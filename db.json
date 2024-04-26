@@ -35,7 +35,7 @@
   ],  
   "produto": [
     {
-      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/StarWars/01",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/01",
       "nome": "Caneca Clones",
       "valor": "120",
       "descricao": "A caneca dos personagens clones do filme Star Wars é um item essencial para os fãs da saga épica de ficção científica.",
@@ -43,7 +43,7 @@
       "id": 1
     },
     {
-      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/StarWars/02",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/02",
       "nome": "Cabeça do DarthVade",
       "valor": "350",
       "descricao": "O boneco da cabeça do Darth Vader é uma peça incrível para os fãs de Star Wars e colecionadores de figuras de ação. ",
@@ -51,7 +51,7 @@
       "id": 2
     },
     {
-      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/StarWars/03",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/03",
       "nome": "Boneco Yoda",
       "valor": "400",
       "descricao": "O boneco do Yoda é uma figura de ação detalhada e realista do lendário personagem de Star Wars. Este boneco é uma réplica fiel do mestre Jedi. ",
@@ -59,7 +59,7 @@
       "id": 3
     },
     {
-      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/StarWars/04",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/04",
       "nome": "Boneco Clone Trooper",
       "valor": "500",
       "descricao": "O boneco dos clones trooper é uma figura de ação incrivelmente detalhada dos soldados clonados do universo Star Wars.",
@@ -67,7 +67,7 @@
       "id": 4
     },
     {
-      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/StarWars/05",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/05",
       "nome": "Boneco Yoda Kid",
       "valor": "500",
       "descricao": "O boneco do Yoda Kid é uma figura de ação adorável e detalhada do jovem Yoda, como ele apareceu no filme \"Star Wars: Episódio II - Ataque dos Clones\". ",
@@ -75,7 +75,7 @@
       "id": 5
     },
     {
-      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/StarWars/06",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/06",
       "nome": "Boneco Kylo Ren",
       "valor": "1000",
       "descricao": "O boneco Kylo Ren é uma figura de ação impressionante e altamente detalhada do personagem homônimo da franquia Star Wars.",
@@ -83,7 +83,7 @@
       "id": 6
     },
     {
-      "imageUrl": "https://mega.nz/file/QUIVzYoL#2NQeQvK2PHsTDue1OAcbZYT0G8Q7ZEWZvA7Ti8hhLao",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/07",
       "nome": "Playstation 5",
       "valor": "4500",
       "descricao": "O PlayStation 5 é a mais recente adição à família de consoles de videogame da Sony e oferece uma experiência de jogo incrível com recursos de última geração.",
@@ -91,7 +91,7 @@
       "id": 7
     },
     {
-      "imageUrl": "https://mega.nz/file/YcRXiJAD#8PeoHue4gToYKCmjcZw6f6IYsxqdRs8YMB5IFcdvZLc",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/08",
       "nome": "Nitendo 8 bits",
       "valor": "2000",
       "descricao": "O Nintendo Entertainment System, ou NES, é um console de videogame lançado pela Nintendo em 1985 e é considerado um dos consoles mais icônicos da história dos videogames. ",
@@ -99,7 +99,7 @@
       "id": 8
     },
     {
-      "imageUrl": "https://mega.nz/file/MAZWXADY#ceprbdBQUSOn7h0aYWnysh2B-vosNwaQ9kX5q1Xbfqg",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/09",
       "nome": "Nintendo Switch",
       "valor": "2100",
       "descricao": "O Nintendo Switch É Um Console De Videogame Lançado Pela Nintendo Em 2017. É Um Console Híbrido, Que Pode Ser Usado Tanto Como Um Console Doméstico Quanto Como Um Dispositivo Portátil.",
@@ -107,7 +107,7 @@
       "id": 9
     },
     {
-      "imageUrl": "https://mega.nz/file/Qd5xmBLT#_1LyNeb_GlShLS9qKbaTo7py4a-bN4A1aiB_wKnraXA",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/10",
       "nome": " x Box Serie X",
       "valor": "5000",
       "descricao": "O Xbox Series X é um console de videogame de última geração lançado pela Microsoft em 2020. ",
@@ -115,7 +115,7 @@
       "id": 10
     },
     {
-      "imageUrl": "https://mega.nz/file/9UwHTBoS#g_qxBMT3Gf5P-ibkVV3fHi95C0d4rWZgYUkfOU41FjA",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/11",
       "nome": "Game Boy",
       "valor": "500",
       "descricao": "O Game Boy é um console portátil de videogame lançado pela Nintendo em 1989.",
@@ -123,7 +123,7 @@
       "id": 11
     },
     {
-      "imageUrl": "https://mega.nz/file/1Q5xnKxD#sVAI4trbX9rR1Hj6b5i8ED11trrSrD2WZDmMal8fliY",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/12",
       "nome": "Controle XBox",
       "valor": "400",
       "descricao": "O controle do Xbox é um dos controles de videogame mais icônicos e populares do mundo.",
@@ -131,7 +131,7 @@
       "id": 12
     },
     {
-      "imageUrl": "https://mega.nz/file/xEBzhLwB#NPVqJYdz8VoDO6s59DMxxFaTKJnCMwL1aG4xHztWgk8",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/13",
       "nome": "Camisa Estama Arabe",
       "valor": "59",
       "descricao": "As camisas estampadas com frases chinesas são uma peça de roupa única e estilosa que podem adicionar um toque de cultura e mistério ao seu guarda-roupa.",
@@ -139,7 +139,7 @@
       "id": 13
     },
     {
-      "imageUrl": "https://mega.nz/file/IIp3ACob#zhJIL0v6rb9gs6E0NOgtrJPK_JXdgUTX614qVavfzos",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/14",
       "nome": "Camisa Estama de Fitas",
       "valor": "59",
       "descricao": "As camisas estampadas são uma peça de roupa versátil e estilosa que podem adicionar personalidade a qualquer guarda-roupa.",
@@ -147,7 +147,7 @@
       "id": 14
     },
     {
-      "imageUrl": "https://mega.nz/file/JAwg0SQB#gwvjyw2eB2lQ-WJowbSv4kt5HNn9bDRMfty2eIHzU1w",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/15",
       "nome": "Boneco do Sonic",
       "valor": "360",
       "descricao": "O boneco do Sonic é um item de colecionador muito popular entre os fãs do personagem e da franquia de jogos da Sega.",
@@ -155,7 +155,7 @@
       "id": 15
     },
     {
-      "imageUrl": "https://mega.nz/file/9M5yRJjS#OkrsUP-SORR_qWKUVUGMWp1YrWGIDRAVaJpZXy-rkVI",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/16",
       "nome": "Relógio de Mesa",
       "valor": "250",
       "descricao": "Um relógio de mesa com design antigo é um item elegante e sofisticado que pode trazer charme e estilo a qualquer ambiente.",
@@ -163,7 +163,7 @@
       "id": 16
     },
     {
-      "imageUrl": "https://mega.nz/file/8dRyhTTQ#7UE8s8pUNgWIZvX7vsyVAxSrbqqSOmpStT5-r49c36Q",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/17",
       "nome": "C. Estama de Hamburguer",
       "valor": "59",
       "descricao": "As camisas estampadas são uma peça de roupa versátil e estilosa que podem adicionar personalidade a qualquer guarda-roupa.",
@@ -171,7 +171,7 @@
       "id": 17
     },
     {
-      "imageUrl": "https://mega.nz/file/VEQAlaZR#aSk4-xdp_F5ls6w2hqco2De2Ef32ft3gdzmCjeb3qj0",
+      "imageUrl": "https://rodsoudev.com/Imagens/AluraGeek/18",
       "nome": "Ursinho do Pikachu",
       "valor": "150",
       "descricao": "O ursinho de pelúcia do Pikachu é uma peça de colecionador perfeita para fãs de Pokémon e amantes de pelúcias fofas e macias.",
